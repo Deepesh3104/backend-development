@@ -1,0 +1,18 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "Sure, you can include these commands in a GitHub README file using Markdown syntax. Here's how you can format it:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
